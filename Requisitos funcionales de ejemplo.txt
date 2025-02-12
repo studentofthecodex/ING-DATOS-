@@ -1,0 +1,5 @@
+Requisitos funcionales de ejemplo
+
+RQF01 Tener un criterio de búsqueda de viajes en base a dinero gastado/unidad de distancia 
+RQF02 Implementar un mapa en donde se puedan visualizar todas las rutas que toman los camiones, junto con alguna información importante sobre esta como por ejemplo cantidad de peajes, nivel de peligro, precio de combustible por litro promedio, o en su defecto, cualquier informacion sobre los caminos que el cliente tenga a la mano. 
+
